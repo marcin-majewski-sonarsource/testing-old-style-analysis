@@ -41,7 +41,7 @@ sonarqube {
     property "sonar.organization", "marcin-majewski-sonarsource"
     property "sonar.host.url", "https://mmsc.eu.ngrok.io"
     property "sonar.pullrequest.branch", "testing-old-style-analysis"
-    property "sonar.pullrequest.key", "2"
-    property "sonar.pullrequest.base", "master"
+    //property "sonar.pullrequest.key", "2"
+   // property "sonar.pullrequest.base", "master"
   }
 }
