@@ -10,7 +10,7 @@ public class NewUselessClass {
 
     BigInteger q = BigInteger.ONE ;
     BigInteger r = BigInteger.ZERO ;
-    BigInteger t = BigInteger.ONE ;
+    BigInteger t = BigInteger.TEN;
     BigInteger k = BigInteger.TWO ;
     BigInteger n = BigInteger.valueOf(3) ;
     BigInteger l = BigInteger.valueOf(3) ;
