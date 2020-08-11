@@ -5,7 +5,7 @@ import java.math.BigInteger;
 public class NewUselessClass {
     final BigInteger TWO = BigInteger.valueOf(2) ;
     final BigInteger THREE = BigInteger.valueOf(3) ;
-    final BigInteger FOUR = BigInteger.valueOf(4) ;
+    final BigInteger FOUR = BigInteger.valueOf(10) ;
     final BigInteger SEVEN = BigInteger.valueOf(7) ;
 
     BigInteger q = BigInteger.ONE ;
