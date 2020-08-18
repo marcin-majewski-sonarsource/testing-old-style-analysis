@@ -38,7 +38,7 @@ application {
 sonarqube {
   properties {
     property "sonar.projectKey", "testing-old-style-analysis"
-    property "sonar.organization", "marcin-majewski-sonarsource-testing"
+    property "sonar.organization", "marcin-majewski-sonarsource"
     property "sonar.host.url", "https://mmsc.eu.ngrok.io"
     //property "sonar.pullrequest.branch", "testing-old-style-analysis"
     //property "sonar.pullrequest.key", "2"

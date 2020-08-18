@@ -41,6 +41,6 @@ public class NewUselessClass {
     }
     public static int method(){
         String constantButIsNot = "NOT_A_CONSTANT";
-        return 2+2;
+return 2+10;
     }
 }
