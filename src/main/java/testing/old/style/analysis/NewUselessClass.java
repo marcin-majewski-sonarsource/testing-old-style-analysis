@@ -3,7 +3,7 @@ package testing.old.style.analysis;
 import java.math.BigInteger;
 
 public class NewUselessClass {
-    final BigInteger TWO = BigInteger.valueOf(2) ;
+    final BigInteger TWO = BigInteger.valueOf(89) ;
     final BigInteger THREE = BigInteger.valueOf(3) ;
     final BigInteger FOUR = BigInteger.valueOf(10) ;
     final BigInteger SEVEN = BigInteger.valueOf(7) ;
