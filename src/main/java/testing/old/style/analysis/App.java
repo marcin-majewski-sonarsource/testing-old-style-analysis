@@ -5,7 +5,7 @@ package testing.old.style.analysis;
 
 public class App {
     public String getGreeting() {
-        return "Hello there world.";
+        return "Hello there world. + 1";
     }
 
     public static void main(String[] args) {
